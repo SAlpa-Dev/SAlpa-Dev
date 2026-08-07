@@ -62,15 +62,29 @@ I'm a **recent graduate** and aspiring software developer with a passion for bui
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAlpa-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SAlpa-Dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec7&icon_color=79ff97&text_color=ffffff" height="180em"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAlpa-Dev&layout=compact&theme=tokyonight&hide_border=true)
+  <!-- Streak Card -->
+  <img src="https://streak-stats.demolab.com?user=SAlpa-Dev&theme=radical&hide_border=true&background=0d1117&ring=ff6ec7&fire=ff6ec7&currStreakLabel=ffffff" height="180em"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SAlpa-Dev&theme=tokyonight&hide_border=true)
+</p>
 
-</div>
+<p align="center">
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAlpa-Dev&bg_color=0d1117&color=79ff97&line=ff6ec7&point=ffffff&area=true&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAlpa-Dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec7&text_color=ffffff" />
+
+</p>
 
 ---
 
