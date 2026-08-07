@@ -2,9 +2,9 @@
 <h3 align="center">Aspiring Software Developer | Fresher exploring opportunities in Tech</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/your-leetcode" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/sujeet-kumar-55659a289/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sk7295911@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/lucifer_sk/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
@@ -37,12 +37,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SAlpa-Dev&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAlpa-Dev&layout=compact&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SAlpa-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAlpa-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAlpa-Dev&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAlpa-Dev&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -60,8 +60,8 @@
 I'm actively looking for entry-level opportunities — feel free to reach out!
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sujeet-kumar-55659a289/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sk7295911@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>Thanks for stopping by! ⭐ from a repo you liked helps a lot.</i></p>
