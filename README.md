@@ -52,8 +52,6 @@
 > Pin your best repositories on your profile (Customize your pins → choose up to 6) so recruiters see your strongest work first.
 
 - **[Data Structures & Algorithms](https://github.com/SAlpa-Dev/Data-Structures-and-Algorithms)** – My solutions to DSA problems from LeetCode and GeeksforGeeks, written in Java.
-- **[Project Name](https://github.com/SAlpa-Dev/project-repo)** – Add your next project here once you push it.
-- **[Project Name](https://github.com/SAlpa-Dev/project-repo)** – Add your next project here once you push it.
 
 ---
 
