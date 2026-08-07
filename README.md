@@ -87,7 +87,7 @@ I'm a **recent graduate** and aspiring software developer with a passion for bui
 
 ## 💡 What I'm Working On
 
-- 📚 **Strengthening DSA Skills** – Solving 50+ LeetCode problems monthly
+- 📚 **Strengthening DSA Skills** – Consistently solving LeetCode problems
 - 🌐 **Exploring Technologies** – For building real-world projects
 - 🤝 **Open Source** – Looking to contribute to beginner-friendly open-source projects
 - 🚀 **Career Growth** – Actively preparing for technical interviews
