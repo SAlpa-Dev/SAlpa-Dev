@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sujeet Kumar
 
-#⚡Building Projects. Solving Problems. Growing Every Day.
+⚡Building Projects. Solving Problems. Growing Every Day.
 
 <div align="center">
 
