@@ -59,9 +59,9 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/SAlpa-Dev">
-    <img src="https://github-profile-trophy.vercel.app/?username=SAlpa-Dev&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://img.shields.io/badge/Total%20Contributions-451-ff6ec7?style=for-the-badge&labelColor=0d1117&logo=github"/>
+  <img src="https://img.shields.io/badge/Active%20Since-Feb%202025-00ffcc?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Problems%20Solved-250%2B-FFA116?style=for-the-badge&labelColor=0d1117&logo=leetcode&logoColor=FFA116"/>
 </p>
 
 ### 🔥 Contribution Streak
