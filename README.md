@@ -19,10 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAlpa-Dev&label=Profile%20views&color=00ffcc&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 ## 💼 About Me
@@ -64,10 +60,7 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
 
 <p align="center">
   <a href="https://github.com/SAlpa-Dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAlpa-Dev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=450"/>
-  </a>
-  <a href="https://github.com/SAlpa-Dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAlpa-Dev&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=SAlpa-Dev&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
   </a>
 </p>
 
@@ -76,12 +69,6 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
 <p align="center">
   <a href="https://github.com/SAlpa-Dev">
     <img src="https://streak-stats.demolab.com?user=SAlpa-Dev&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/SAlpa-Dev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAlpa-Dev&bg_color=0d1117&color=00ffcc&line=ff6ec7&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
   </a>
 </p>
 
