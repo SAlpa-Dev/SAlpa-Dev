@@ -1,127 +1,155 @@
-# Hi 👋, I'm Sujeet Kumar
+<h1 align="center">Hi 👋, I'm Sujeet Kumar</h1>
 
-⚡Building Projects. Solving Problems. Growing Every Day.
+<p align="center">
+  <em>⚡ Building Projects &nbsp;·&nbsp; Solving Problems &nbsp;·&nbsp; Growing Every Day</em>
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/sujeet-kumar-55659a289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sk7295911@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/u/lucifer_sk/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/SAlpa-Dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujeet-kumar-55659a289/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sk7295911@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/lucifer_sk/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAlpa-Dev)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SAlpa-Dev&label=Profile%20views&color=00ffcc&style=flat" alt="profile views"/>
+</p>
 
 ---
 
 ## 💼 About Me
 
-I'm a **recent graduate** and aspiring software developer with a passion for building clean, efficient code and solving complex problems. I'm actively seeking **entry-level positions, internships, and collaborative opportunities** to apply my technical skills and contribute to real-world projects.
+Engineering graduate and aspiring **software developer** with a strong foundation in **Java, DSA, OOP, and SQL/DBMS**. I enjoy building clean, database-backed applications end to end and owning software from requirements through delivery. Actively seeking **entry-level roles, internships, and collaborative projects**.
 
-- 🎓 Fresh graduate eager to launch my career in software development
-- 💪 Strong foundation in **Java, DSA, and Web Development**
-- 🧠 Actively solving problems on **LeetCode** and strengthening algorithmic skills
-- 🔍 Detail-oriented with focus on code quality and best practices
-- 🤝 Quick learner with strong communication and teamwork abilities
-- 🎯 Committed to continuous learning and professional growth
-
----
-
-## 🛠️ Technical Skills
-
-### **Programming Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Databases & Backend**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
-
-### **Core Competencies**
-![Data Structures & Algorithms](https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)
-![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=java&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web%20Dev-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-
-### **Development Tools & IDEs**
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🎓 &nbsp;B.E. graduate eager to launch a software engineering career
+- 💪 &nbsp;Solid grasp of **Java, Data Structures & Algorithms, and Web Development**
+- 🧠 &nbsp;**250+ problems** solved across LeetCode & GeeksforGeeks
+- 🔍 &nbsp;Detail-oriented, focused on code quality and clean architecture
+- 🤝 &nbsp;Quick learner with strong communication and teamwork
+- 🎯 &nbsp;Committed to continuous learning and professional growth
 
 ---
 
-## 🎯 Featured Projects
+## 🛠️ Tech Stack
 
-### 1. **Data Structures & Algorithms Repository**
-   - 📊 Comprehensive collection of DSA problems and solutions
-   - 🔗 [View Repository](https://github.com/SAlpa-Dev/Data-Structures-and-Algorithms)
-   - **Key Focus:** Problem-solving, algorithmic thinking, Java implementation
-   - **Skills Demonstrated:** Java, Time/Space Complexity Analysis, Data Structures
+<p align="center"><strong>Languages</strong></p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,c,js,html,css,mysql" alt="languages"/></a>
+</p>
+
+<p align="center"><strong>Tools &amp; Platforms</strong></p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,idea,vscode" alt="tools"/></a>
+</p>
+
+<p align="center"><strong>Core Competencies</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAlpa-Dev&show_icons=true&theme=radical&hide_border=true" height="180em"/>
-  <img src="https://streak-stats.demolab.com?user=SAlpa-Dev&theme=radical&hide_border=true" height="180em"/>
+  <a href="https://github.com/SAlpa-Dev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAlpa-Dev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=450"/>
+  </a>
+  <a href="https://github.com/SAlpa-Dev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAlpa-Dev&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+  </a>
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <a href="https://github.com/SAlpa-Dev">
+    <img src="https://streak-stats.demolab.com?user=SAlpa-Dev&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAlpa-Dev&bg_color=0d1117&color=00ffcc&line=ff6ec7&point=ffffff&area=true&hide_border=true"/>
+  <a href="https://github.com/SAlpa-Dev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAlpa-Dev&bg_color=0d1117&color=00ffcc&line=ff6ec7&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+  </a>
 </p>
+
+---
+
+## 🎯 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👥 Employee Management System</h3>
+      <p><em>Java · JDBC · MySQL · OOP</em></p>
+      <p>End-to-end CRUD application over MySQL via JDBC, built on a layered architecture (model / data-access / UI) with a normalized relational schema, parameterized queries, and structured exception handling.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Anthropomorphic Robotic Hand</h3>
+      <p><em>Embedded C · STM32 · ARM Cortex-M4</em></p>
+      <p>Led a small team to translate flex-sensor finger movement into robotic-hand motion via a calibrated ADC-to-PWM signal pipeline, with firmware partitioned into independently testable routines.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Keypad PIN Security System</h3>
+      <p><em>Embedded C · STM32 · LCD</em></p>
+      <p>PIN-based access control with matrix-keypad input over GPIO, real-time LCD feedback, and firmware split into clean input / logic / display modules.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 DSA Repository</h3>
+      <p><em>Java · Problem Solving</em></p>
+      <p>Growing collection of Data Structures & Algorithms problems and solutions with a focus on time/space complexity analysis.
+      <br><a href="https://github.com/SAlpa-Dev/Data-Structures-and-Algorithms">→ View Repository</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎓 Education
 
-### **Bachelor's Degree**
-- **Program:** [B.E in Electronics & Communication]
-- **University:** [Chandigarh University]
-- **GPA:** [8.46]
-- **Graduation:** [2026]
-
+**B.E. in Electronics & Communication Engineering** — Chandigarh University, Mohali &nbsp;·&nbsp; *Aug 2022 – May 2026* &nbsp;·&nbsp; **CGPA 8.46/10**
 
 ---
 
-## 💡 What I'm Working On
+## 🎖️ Achievements
 
-- 📚 **Strengthening DSA Skills** – Consistently solving LeetCode problems
-- 🌐 **Exploring Technologies** – For building real-world projects
-- 🤝 **Open Source** – Looking to contribute to beginner-friendly open-source projects
-- 🚀 **Career Growth** – Actively preparing for technical interviews
-
----
-
-## 🎖️ Achievements & Highlights
-
-- ⭐ Consistent problem-solver on LeetCode
-- 🧠 Strong grasp of fundamental CS concepts
-- 💬 Excellent communication and debugging skills
-- 🎓 Quick learner with ability to adapt to new technologies
+- 🏅 &nbsp;**GATE 2025 qualified** in Electronics & Communication Engineering
+- 🥈 &nbsp;**2nd Prize in Academics** at Chandigarh University for outstanding performance
+- 📜 &nbsp;Certificate of Appreciation as **Class Representative (2024–25)**
+- 🧩 &nbsp;Selected participant in **QuizOff 2026** among 5,25,000+ students
 
 ---
 
-## 🎯 Let's Connect!
+## 🎯 Let's Connect
 
-I'm actively seeking opportunities to apply my skills and grow in a challenging environment. Whether it's a full-time role, internship, or collaborative project — **I'd love to hear from you!**
+<p align="center">
+  I'm actively seeking opportunities to apply my skills and grow. Full-time, internship, or collaboration — I'd love to hear from you!
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="mailto:sk7295911@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sujeet-kumar-55659a289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/lucifer_sk/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
-**📧 Email:** sk7295911@gmail.com  
-**💼 LinkedIn:** [linkedin.com/in/sujeet-kumar-55659a289/](https://www.linkedin.com/in/sujeet-kumar-55659a289/)  
-**💻 LeetCode:** [leetcode.com/u/lucifer_sk/](https://leetcode.com/u/lucifer_sk/)
-
-### ⭐ If you find my projects helpful, consider giving them a star! It helps a lot!
-
-</div>
-
----
-
-<div align="center">
-
-### “Dream in code. Build in reality.” 🚀
-
-*Last updated: August 2026*
-
-</div>
+<p align="center"><em>"Dream in code. Build in reality." 🚀</em></p>
